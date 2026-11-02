@@ -1,2 +1,2 @@
 Information Management Group
-Shivam Chahal
+name -Shivam Chahal 
